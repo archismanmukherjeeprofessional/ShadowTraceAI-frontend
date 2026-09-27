@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to easily access and read digital content with a clean, user-friendly interface designed for efficient and enjoyable reading experiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
